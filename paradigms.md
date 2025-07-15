@@ -19,4 +19,4 @@ Try a simple assignment to reduce duplication, and achieve semantic distance by 
 
 [Python](https://classroom.github.com/a/GMA_ioTL)
 
-[JavaScript](https://classroom.github.com/a/fFzA4QhM)
+[JavaScript](https://classroom.github.com/a/KYH6gVUl)
