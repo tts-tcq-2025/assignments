@@ -55,3 +55,8 @@ by Robert Nystrom
 
 >a key goal of software architecture: minimize the amount of knowledge you need
 to have in-cranium before you can make progress
+
+---
+## Assignment Tracker
+https://docs.google.com/spreadsheets/d/1exXna4nuv2klFaq-e3EdRgmFGV_fDvhDtndV1Me9vkg/edit?usp=sharing
+
