@@ -11,7 +11,7 @@ Try a simple assignment to reduce duplication, and achieve semantic distance by 
 ### Pick a language for your assignment
 
 
-[C++](https://classroom.github.com/a/uEgRyVYB)
+[C++](https://classroom.github.com/a/ddx8Uqta)
 
 [C#](https://classroom.github.com/a/EAWHFMlm)
 
