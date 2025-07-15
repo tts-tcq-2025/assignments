@@ -10,12 +10,13 @@ Try a simple assignment to reduce duplication, and achieve semantic distance by 
 
 ### Pick a language for your assignment
 
-[C++](https://classroom.github.com/a/fDS-zVHO)
 
-[C#](https://classroom.github.com/a/qkUL-6a1)
+[C++](https://classroom.github.com/a/uEgRyVYB)
 
-[Java](https://classroom.github.com/a/5xafDIiw)
+[C#](https://classroom.github.com/a/EAWHFMlm)
 
-[Python](https://classroom.github.com/a/3Nh2GGmU)
+[Java](https://classroom.github.com/a/NoL8Wt7w)
+
+[Python](https://classroom.github.com/a/GMA_ioTL)
 
 [JavaScript](https://classroom.github.com/a/9HH6BaJL)
