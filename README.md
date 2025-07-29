@@ -15,6 +15,8 @@ This is an experiential learning experience - Concepts with live coding sessions
 
 [Fail on false positive](fail.md)
 
+[Refactor](VitalMonitoRefactor.md)
+
 ## References
 
 [The Art of Readable Code](https://www.oreilly.com/library/view/the-art-of/9781449318482/) by Dustin Boswell & Trevor Foucher, ISBN 9780596802295
