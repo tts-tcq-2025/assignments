@@ -18,7 +18,7 @@ While you are strengthening the test:
 
 [C++](https://classroom.github.com/a/HClK-Xa2)
 
-[C#](https://https://classroom.github.com/a/ls1q67Su)
+[C#](https://classroom.github.com/a/ls1q67Su)
 
 [Java](https://classroom.github.com/a/gAySNGeP)
 
