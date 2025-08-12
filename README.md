@@ -19,7 +19,7 @@ This is an experiential learning experience - Concepts with live coding sessions
 
 [Modularity](modularity.md)
 
-[Legacy Code](extension.md)
+[Legacy Code](Extension.md)
 
 
 ## References
